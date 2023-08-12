@@ -1,0 +1,16 @@
+export const contenedor = document.getElementById("contenido");
+export const botonCarrito = document.getElementById("carrito-icono");
+export const carrito = document.getElementById("carrito");
+export const cerrarCarrito = document.getElementById("cerrar-carrito");
+export const agregarCarrito = document.getElementById("agregar-carrito");
+export const carritoContenido = document.getElementById("cart-content");
+export const productoPrecio = document.getElementById("producto-precio");
+export const precioTotalCarrito = document.getElementById("precio-total");
+export const modalCarrito = document.getElementById("modal-carrito");
+export const vaciarCarrito = document.getElementById("vaciar-carrito");
+export const contadorCarrito = document.getElementById("circulo-carrito");
+export const carritoVacio = document.getElementById("carrito-vacio");
+export const carritoIcono = document.getElementById("carrito-icono");
+export const precio = document.getElementsByClassName('precio');
+export const botonComprar = document.getElementById("boton-compra");
+export const botonCotizacion = document.getElementById("cotizacion");

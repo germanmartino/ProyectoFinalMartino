@@ -1,0 +1,122 @@
+[
+    { "id": 1,  
+        "marca": "Nike", 
+        "descripcion": "Court Vision Low Next Nature" ,
+        "precio": 33599, 
+        "img": "img/1.webp"
+    },
+    { "id": 2,  
+        "marca": "Nike", 
+        "descripcion": "Revolution 5" ,
+        "precio": 29399, 
+        "img": "img/2.webp"
+    },
+    { "id": 3,  
+        "marca": "Nike", 
+        "descripcion": "Revolution 6 Flyease Next Nature" ,
+        "precio": 29399, 
+        "img": "img/3.webp"
+    },
+    { "id": 4,  
+        "marca": "Nike", 
+        "descripcion": "Air Zoom Pegasus 39" ,
+        "precio": 58799, 
+        "img": "img/4.webp"
+    },
+    { "id": 5,  
+        "marca": "Nike", 
+        "descripcion": "Air Max Sc" ,
+        "precio": 40199, 
+        "img": "img/5.webp"
+    },
+    { "id": 6,  
+        "marca": "Nike", 
+        "descripcion": "React Pegasus Trail 4" ,
+        "precio": 63599, 
+        "img": "img/6.webp"
+    },
+    { "id": 7,  
+        "marca": "Nike", 
+        "descripcion": "Zoom Winflo 8" ,
+        "precio": 37439, 
+        "img": "img/7.webp"
+    },
+    { "id": 8,  
+        "marca": "Nike", 
+        "descripcion": "Revolution 6 Next Nature" ,
+        "precio": 29399, 
+        "img": "img/8.webp"
+    },
+    { "id": 9,  
+        "marca": "Nike", 
+        "descripcion": "Zoomx Vaporfly Next% 2" ,
+        "precio": 110999, 
+        "img": "img/9.webp"
+    },
+    { "id": 10,  
+        "marca": "Nike", 
+        "descripcion": "Air Max Ap" ,
+        "precio": 39519, 
+        "img": "img/10.webp"
+    },
+    { "id": 11,  
+        "marca": "Nike", 
+        "descripcion": "Legend Essential 2" ,
+        "precio": 29399, 
+        "img": "img/11.webp"
+    },
+    { "id": 12,  
+        "marca": "Nike", 
+        "descripcion": "React Infinity Run Flyknit 4 Hombre" ,
+        "precio": 77999, 
+        "img": "img/12.webp"
+    },
+    { "id": 13,  
+        "marca": "Nike", 
+        "descripcion": "Zoom Prevail" ,
+        "precio": 48999, 
+        "img": "img/13.webp"
+    },
+    { "id": 14,  
+        "marca": "Nike", 
+        "descripcion": "Air Zoom Rival Fly 3" ,
+        "precio": 44199, 
+        "img": "img/14.webp"
+    },
+    { "id": 15,  
+        "marca": "Nike", 
+        "descripcion": "Revolution 6 Next Nature" ,
+        "precio": 29399, 
+        "img": "img/15.webp"
+    },
+    { "id": 16,  
+        "marca": "Nike", 
+        "descripcion": "Run Swift 2" ,
+        "precio": 33599, 
+        "img": "img/16.webp"
+    },
+    { "id": 17,  
+        "marca": "Nike", 
+        "descripcion": "Quest 5" ,
+        "precio": 37199, 
+        "img": "img/17.webp"
+    },
+    { "id": 18,  
+        "marca": "Nike", 
+        "descripcion": "Tanjun" ,
+        "precio": 33599, 
+        "img": "img/18.webp"
+    },
+    { "id": 19,  
+        "marca": "Nike", 
+        "descripcion": "Downshifter 12" ,
+        "precio": 33599, 
+        "img": "img/19.webp"
+    },
+    { "id": 20,  
+        "marca": "Nike", 
+        "descripcion": "React Infinity Run Flyknit 3" ,
+        "precio": 77999, 
+        "img": "img/20.webp"
+    }
+]

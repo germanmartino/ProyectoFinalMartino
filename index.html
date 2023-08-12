@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entre Final Martino</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="css/style.css">
+ </head>
+ <body>
+    <header>
+        <div class="nav contenedor">
+            <a href="index.html" class="logo">Martino Tienda </a>
+            <div class="derecha">
+                <div class="cotizacion" id="cotizacion">USD</div>
+                <i class='bx bxs-shopping-bag carrito-icono' id="carrito-icono">
+                </i>
+            </div>
+        </div>    
+        <div class="modal-carrito" id="modal-carrito">
+            <div class="carrito" id="carrito"> 
+                <div class="carrito-cabecera">    
+                    <h2 class="carrito-titulo"> Carrito</h2>
+                    <div class="vaciar-carrito" id="vaciar-carrito">vaciar carrito</div> 
+                </div>  
+                <div class="carrito-vacio" id="carrito-vacio">Tu Carrito esta vacio. 
+                    <i class='bx bx-sad carita-vacio'></i>
+                </div>   
+                <div class="cart-content" id="cart-content"> 
+                    <!--se cargael carrito-->        
+                </div>
+                <div class="total">
+                    <div class="total-title">TOTAL:</div>
+                    <div class="precio-total" id="precio-total">$0,00</div>
+                </div>
+                <button type="button" class="btn-buy" id="boton-compra">FINALIZAR COMPRA</button>
+                <i class='bx bx-x' id="cerrar-carrito"></i>
+            </div>
+        </div>
+    </header>
+    
+    <section class="shop contenedor">
+        <h2 class="section-titulo">PRODUCTOS</h2>
+        <div id="contenido">
+            <!--se cargan las zapatillas-->    
+        </div>
+    </section>
+</body>    
+<footer class="footer">
+</footer>    
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="js/main.js" type="module"></script>
+<script src="js/funcionProductos.js" type="module"></script>
+<script src="js/botones.js" type="module"></script>
+    
+
+</html>
